@@ -13,7 +13,7 @@ This Python script creates a video of a ball bouncing within a frame. The ball's
 
 ## Installation
 
-To run this script, you need to have Python installed along with the following libraries:
+You need to have Python installed along with the following libraries:
 - OpenCV
 - NumPy
 
